@@ -1,0 +1,1 @@
+pyuic4 mainFrm_.ui > mainFrm1.py
